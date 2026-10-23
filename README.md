@@ -1,6 +1,6 @@
 # Pedro
 
-Estudante de Ciências da Computação na UNAMA e programador em C++.
+Estudante de Ciências da Computação na UNAMA e programador em C++, CSS, HTML e Java Script.
 
 
 <div align="center">
@@ -23,7 +23,10 @@ Estudante de Ciências da Computação na UNAMA e programador em C++.
 
 ## Tecnologias
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" height="28" valign="middle" alt="C++ logo" /> <b>C++</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" height="28" valign="middle" alt="C++ logo" /> <b>C++</b><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" valign="middle" alt="JavaScript logo" /> <b>JavaScript</b><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" valign="middle" alt="CSS logo" /> <b>CSS</b><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" valign="middle" alt="HTML logo" /> <b>HTML</b>
 </p>
 
 
