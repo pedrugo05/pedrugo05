@@ -1,6 +1,7 @@
 # Pedro
 
 Estudante de Ciências da Computação na UNAMA e programador em C++, CSS, HTML e Java Script.
+Hello, my name is Pedro, i'm from Brazil and i'm a computer sciencie student.
 
 
 <div align="center">
